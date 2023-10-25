@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a 2nd year web development student at NAIT, with a passion for front-end development and web design. I love art, fashion, and design. Using code to implement these passions into forward thinking web pages is what excites me, alongside implenting responsive HTML, CSS, Javascript, and PHP. I'm always looking for the chance to learn and share knowledge, ideas, and projects with other passionate developers ♡
+I'm currently a 2nd year web development student at NAIT, with a passion for front-end development and web design. I love art, fashion, and design. Using code to implement these interests into forward thinking web pages is what excites me, alongside implenting responsive HTML, CSS, Javascript, and PHP. I'm always looking for the chance to learn and share knowledge, ideas, and projects with other passionate developers ♡
 
 
 # 💻 Tech Stack:
